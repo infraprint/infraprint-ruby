@@ -1,4 +1,9 @@
-infraprint-ruby
-===============
+= Infraprint's Ruby bindings
 
-Ruby Gem
+== Installation
+
+gem install infraprint
+
+== Requirements
+
+* Ruby 1.8.7 or above.
